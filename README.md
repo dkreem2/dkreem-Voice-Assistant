@@ -35,7 +35,7 @@ To run the dkreem Voice Assistant, follow these steps:
 3. **Run the Script:** Save the code in a Python file (e.g., `dkreem_assistant.py`). Run the script by executing the following command in the terminal:
 
    ```
-   python dkreem_assistant.py
+   python dkreem.py
    ```
 
 4. **Interact with the Assistant:** The dkreem Voice Assistant will prompt you to say something. Speak your query into the microphone. The assistant will process your input using the GPT-3.5 API and respond audibly through text-to-speech.
